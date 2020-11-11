@@ -1,4 +1,5 @@
 <img width="1151" alt="Screen Shot 2020-11-11 at 3 59 06 PM" src="https://user-images.githubusercontent.com/62911364/98870336-c95cc200-2438-11eb-8897-35d80e82d53a.png">
+
 ## Background
 ### All the data science students recieved the email below. Follow the instructions to deliver a email answering the questions below along with a single slide.
 
