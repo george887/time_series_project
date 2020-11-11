@@ -1,6 +1,4 @@
-![ANOMOLY](https://user-images.githubusercontent.com/62911364/98869767-eb097980-2437-11eb-96a1-185b2fd8c7d9.png)
-
-
+<img width="1151" alt="Screen Shot 2020-11-11 at 3 59 06 PM" src="https://user-images.githubusercontent.com/62911364/98870336-c95cc200-2438-11eb-8897-35d80e82d53a.png">
 ## Background
 ### All the data science students recieved the email below. Follow the instructions to deliver a email answering the questions below along with a single slide.
 
