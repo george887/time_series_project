@@ -1,4 +1,5 @@
-![Header](https://www.canva.com/design/DAENPazcz0E/s3LTtLkDc40Q6mqjhzQ8Mw/view?utm_content=DAENPazcz0E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![ANOMOLY](https://user-images.githubusercontent.com/62911364/98869767-eb097980-2437-11eb-96a1-185b2fd8c7d9.png)
+
 
 ## Background
 ### All the data science students recieved the email below. Follow the instructions to deliver a email answering the questions below along with a single slide.
