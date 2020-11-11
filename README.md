@@ -1,3 +1,6 @@
+![Header](https://www.canva.com/design/DAENPazcz0E/s3LTtLkDc40Q6mqjhzQ8Mw/view?utm_content=DAENPazcz0E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+## Background
 ### All the data science students recieved the email below. Follow the instructions to deliver a email answering the questions below along with a single slide.
 
 **EMAIL:**
@@ -20,3 +23,5 @@ I have some questions for you that I need answered before the board meeting Thur
 - Continue using best practices of acquire.py, prepare.py, etc. 
 - No modeling to be done, and no need to split the data into train/validate/test. 
 - alumni.codeup.com has info about cohorts/dates/names
+
+# Goals
