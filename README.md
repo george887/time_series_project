@@ -24,5 +24,8 @@ I have some questions for you that I need answered before the board meeting Thur
 - No modeling to be done, and no need to split the data into train/validate/test. 
 - alumni.codeup.com has info about cohorts/dates/names
 
- </details>
+</details>
 # Goals
+- Explore the anonymized-curriculum-access.txt
+- Create an explore.ipynb to explore data
+- Create a google slide to summarize findings
