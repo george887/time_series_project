@@ -25,7 +25,23 @@ I have some questions for you that I need answered before the board meeting Thur
 - alumni.codeup.com has info about cohorts/dates/names
 
 </details>
+
 # Goals
 - Explore the anonymized-curriculum-access.txt
 - Create an explore.ipynb to explore data
 - Create a google slide to summarize findings
+- Create an acquire.py and prepare.py file to aid in exploring data
+
+# Data Dictionary
+| Feature        | Description                                                                                              |
+|----------------|----------------------------------------------------------------------------------------------------------|
+| index          | YYYY-MM-DD hh:mm:ss Date of page viewed by user                                                          |
+| page           | End of url of curriculum accessed ie. ds.codeup.com/<page>                                               |
+| user_id        | Unique id for user                                                                                       |
+| cohort_id      | Unique id for cohort                                                                                     |
+| ip             | Internet Protocol address by user. Users may may have multiple ips depending where they are taking class |
+| times_accessed | Column used to see how many times an individual column was used. One entered per row per entry           |
+| name           | Name of cohort                                                                                           |
+| start_date     | Start date of cohort                                                                                     |
+| program_id     | ID used to identify if cohort is web dev (1 & 2) and data science (3)                                    | 
+  
