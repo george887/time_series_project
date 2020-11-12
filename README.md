@@ -99,7 +99,7 @@ Java-iii was looked at significantly more in cohorts 22, 29, 24 and 53 with a ra
 
 3. Are there students who, when active, hardly access the curriculum? If so, what information do you have about these students? 
 
-Yes there are students who are rarely accessing the curriculum. Example, in cohorts 55 (user 787), 57 (user 619), 14 (user 593) and 19 (user 163) all accessed the curriculum one time. User 787 looked only at the appendix/interview_questions_students. Users 619 & 163 looked only at the home page. User 593 looked at the index once. So it appears that one person was interested in interview questions, 2 went to the home page and stopped looking, and one went to the index. Some of these students could have left
+Yes there are students who are rarely accessing the curriculum. Keep in mind when this info was found, I filtered out home pages and table of contents. Example, in cohorts 55 (user 787), 14 (user 593), 1 (user 212) and 7 (user 348) all accessed the curriculum one time. User 787 looked only at the appendix/interview_questions_students. User 593 and 165 looked at the index once. User 212 looked at students/units/75/sub_units/268. User 348 looked at content/php_iii/php-with-html/sessions-with-ph.
 
 4. Is there any suspicious activity, such as users/machines/etc accessing the curriculum who shouldn’t be? Does it appear that any web-scraping is happening? Are there any suspicious IP addresses? Any odd user-agents? 
 
