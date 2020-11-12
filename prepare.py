@@ -34,6 +34,14 @@ def prep_data(df):
     # Mask for looking at pages while enrolled
     df['accessed_while_enrolled'] = ((df.date >= df.start_date) & (df.date <= df.end_date))
 
+    # Handling nulls
+    df.page.dropna(inplace=True)
+    df.cohort_id.fillna(0, inplace=True)
+    df.name.fillna('zero', inplace=True)
+    df.program_id.fillna(0, inplace=True)
+    df.start_date.fillna(pd.Timestamp('2018-01-26 09:55:03'), inplace=True)
+    df.end_date.fillna(pd.Timestamp('2020-11-02 16:48:47'), inplace=True)
+
     return df
 
 #################### Creating ds data frame for accessing curriculum ##########################
