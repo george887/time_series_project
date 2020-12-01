@@ -22,15 +22,15 @@ I have some questions for you that I need answered before the board meeting Thur
 - Slide should be like an exec. Summary and be in form to present. 
 - Continue using best practices of acquire.py, prepare.py, etc. 
 - No modeling to be done, and no need to split the data into train/validate/test. 
-- alumni.codeup.com has info about cohorts/dates/names
+- alumni.codeup.com has info about cohorts/dates/names.
 
 </details>
 
 # Goals
-- Explore the ```anonymized-curriculum-access.txt```
-- Create an explore.ipynb to explore data
-- Create a google slide to summarize findings
-- Create an acquire.py and prepare.py file to aid in exploring data
+- Explore the ```anonymized-curriculum-access.txt```.
+- Create an explore.ipynb to explore data.
+- Create a google slide to summarize findings.
+- Create an acquire.py and prepare.py file to aid in exploring data.
 
 # Data Dictionary
 | Feature                 | Description                                                                                              |
@@ -49,18 +49,18 @@ I have some questions for you that I need answered before the board meeting Thur
 
 # Project Planning
 ### Acquire
-  - Use ```anonymized-curriculum-access.txt``` and pandas to read in txt
+  - Use ```anonymized-curriculum-access.txt``` and pandas to read in txt.
   
 ### Prepare
-  - Rename columns
-  - Create ```is_ds``` and ```times_accessed``` columns
-  - Merge ```anonymized-curriculum-access.txt``` and ```cohort.csv``` data frames
-  - Drop some page values (home page, table of contents, and unwanted searches), cohort_id == 28 (staff)
-  - Set date as index
-  - Set start_date and end_date as datetime format
+  - Rename columns.
+  - Create ```is_ds``` and ```times_accessed``` columns.
+  - Merge ```anonymized-curriculum-access.txt``` and ```cohort.csv``` data frames.
+  - Drop some page values (home page, table of contents, and unwanted searches), cohort_id == 28 (staff).
+  - Set date as index.
+  - Set start_date and end_date as datetime format.
  
 ### Explore
-  - Explore data to answer questions in email
+  - Explore data to answer questions in email.
   
 # Conclusions
 <details>
@@ -123,7 +123,7 @@ Webdev students are looking at javascript-i, spring, html-css, java-ii, and java
 7. Which lessons are least accessed? 
 
 Data Science
-While there is a lot of pages rarely accessed, tableau & various fundamentals lessons ie(/cli/creating-files-and-directories, /spreadsheets-overview) were hardly accessed
+While there is a lot of pages rarely accessed, tableau & various fundamentals lessons ie(/cli/creating-files-and-directories, /spreadsheets-overview) were hardly accessed.
 WebDev
 There are hundreds of pages looked at only 1 or 2 times. Difficult to pin point what exact topics are not being utilized post graduating.
 
@@ -132,7 +132,7 @@ There are hundreds of pages looked at only 1 or 2 times. Difficult to pin point 
 I would take into consideration the classes post pandemic may have more traffic since the classes are being held virtual. Students may not seem to be accessing the curriculum however, a number of students leave their windows open and do not refresh pages that are kept open. On another note, depending on when lessons/topics are taught, the amount of accesses may differ from cohort to cohort. As the class progresses, topics are re-introduced over and over which may lead to less accesses as the students start to understand the material better.
 </details>
 
-# How to reporduce
-- Download ```anonymized-curriculum-access.txt``` and ```cohort.csv```
-- Download ```acquire.py``` and ```prepare.py```
-- Run files in jupyter notebook
+# How to reproduce
+- Download ```anonymized-curriculum-access.txt``` and ```cohort.csv```.
+- Download ```acquire.py``` and ```prepare.py```.
+- Run files in jupyter notebook.
